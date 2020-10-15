@@ -17,7 +17,7 @@ We will follow these steps in this simple task
 
 4) In next step we will Visual Represention of linear equation with Linear Regression.
 
-![linear_equation](https://user-images.githubusercontent.com/17771301/96143831-cb983300-0f03-11eb-98ea-beac236748cf.png)
+![linear_equation](https://user-images.githubusercontent.com/17771301/96145348-67766e80-0f05-11eb-8d54-807bdd5de6c7.png)
 
 5) We will predict the per capita income using predict() function. 
 
