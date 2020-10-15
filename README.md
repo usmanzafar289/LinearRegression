@@ -9,7 +9,7 @@ y=mx+b (m is slop or coefficient or gradient and b is intercept)
 ### Steps:
 We will follow these steps in this simple task
 
-1)we will import the required the modules for this task. One of the important package is linear_model from sklearn. More details for this module can be read from SKlearn documentation at https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html
+ 1)we will import the required the modules for this task. One of the important package is linear_model from sklearn. More details for this module can be read from SKlearn   documentation at https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html
 
 2) After that we will load canada_per_capita_income from csv through panda module. 
 
