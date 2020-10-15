@@ -17,6 +17,9 @@ We will follow these steps in this simple task
 
 4) In next step we will Visual Represention of linear equation with Linear Regression.
 
+![Alt text](C:/Users/Usman-417/linear_equation.png?raw=true "LinearRegression")
+
+
 5) We will predict the per capita income using predict() function. 
 
 6) Then we will see Proof of linear Equation and check its accuracy.
