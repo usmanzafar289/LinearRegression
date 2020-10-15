@@ -1,4 +1,4 @@
-####Linear regression in ML?
+### Linear regression in ML?
 Linear Regression is a supervised machine learning algorithm where the predicted output is continuous and has a constant slope. It’s used to predict values within a continuous range, (e.g. sales, price, income) rather than trying to classify them into categories (e.g. cat, dog). 
 
 
